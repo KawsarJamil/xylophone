@@ -26,6 +26,7 @@ class home extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       body: SafeArea(
+        
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
